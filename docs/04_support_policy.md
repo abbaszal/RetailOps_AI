@@ -1,6 +1,3 @@
-
-# `docs/04_support_policy.md`
-
 # Customer Support Policy (Extended)
 
 ## Purpose
