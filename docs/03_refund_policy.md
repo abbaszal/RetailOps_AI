@@ -1,7 +1,4 @@
-
-# `docs/03_refund_policy.md`
-
-# Refund Policy (Extended)
+# Refund Policy
 
 ## Purpose
 
