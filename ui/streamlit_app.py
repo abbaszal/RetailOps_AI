@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 import json
 
-API_BASE = "http://127.0.0.1:8001"
+API_BASE = "http://127.0.0.1:8000"
 
 TIER_COLORS = {
     "bronze": "#CD7F32",
