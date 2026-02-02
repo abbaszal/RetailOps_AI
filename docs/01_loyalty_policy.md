@@ -1,16 +1,3 @@
-Got it — we’ll focus **only on four documents** and make them **long, detailed, and RAG-friendly**:
-
-* **Returns Policy**
-* **Refund Policy**
-* **Loyalty Policy**
-* **Support Policy**
-
-Below are **production-style, long-form markdown docs** you can copy directly into your `docs/` directory.
-
----
-
-# `docs/01_loyalty_policy.md`
-
 # Loyalty and Customer Treatment Policy (Demo Platform)
 
 ## Purpose
