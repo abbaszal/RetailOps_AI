@@ -1,9 +1,4 @@
-02_returns_policy.md
----
-
-# `docs/02_returns_policy.md`
-
-# Returns Policy (Extended)
+# Returns Policy
 
 ## Purpose
 
